@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-I’m **Sheikh Salman**, a junior web developer passionate about creating clean and user-friendly websites. I recently completed my web development course and am seeking an opportunity—through an internship or job—to build my skills and contribute to real-world projects.
+I’m **Sheikh Salman**, a **junior web developer** passionate about creating clean and user-friendly websites. I recently completed my web development course and am seeking an opportunity—through an internship or job—to build my skills and contribute to real-world projects.
 
 ### 📌 Current Activities
-- preparation jor job or internship to build my skills
-- Learning Next.js building portfolio
-- Polishing built projects in course
+🌱 I’m Currently learning Next.js and building my portfolio.  
+🤔 Preparing for a job or internship to build my skills.  
+🔭 working as a teacher at a madrasa.  
+✨ Polishing projects I built during my course.  
+⚡ Fun fact: I love coding and can speak 4 languages.
 
 
 ### 🛠️ Skills
@@ -44,7 +46,7 @@ I’m **Sheikh Salman**, a junior web developer passionate about creating clean 
 
 
 <!-- Total contributions and general stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhSalman-koli&show_icons=true&theme=radical)
+![Sheikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhSalman-koli&show_icons=true&theme=radical)
 
 <!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhSalman-koli&layout=compact&theme=radical)
