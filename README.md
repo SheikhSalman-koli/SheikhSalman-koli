@@ -43,4 +43,15 @@ I’m **Sheikh Salman**, a junior web developer passionate about creating clean 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
 
 
+<!-- Total contributions and general stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhSalman-koli&show_icons=true&theme=radical)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhSalman-koli&layout=compact&theme=radical)
+
+<!-- Streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheikhSalman-koli&theme=radical)
+
+
+
 
