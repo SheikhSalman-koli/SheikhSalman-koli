@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 
 
 👨‍💻 About Me
--I’m Sheikh Salman, a junior web developer passionate about creating clean and user-friendly websites. I recently completed my web development course and am seeking an opportunity—through an internship or job—to build my skills and contribute to real-world projects.
+
+I’m Sheikh Salman, a junior web developer passionate about creating clean and user-friendly websites. I recently completed my web development course and am seeking an opportunity—through an internship or job—to build my skills and contribute to real-world projects.
 
 📌 Current Activities
 - preparation jor job or internship to build my skills
 - Learning Next.js building portfolio
 - Polishing built projects in course
+
 
 🛠️ Skills
 ### Frontend
