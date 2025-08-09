@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SheikhSalman-koli/SheikhSalman-koli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-hello everyone how are you
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/b0dabf52-ed42-4f7f-bb2c-914288ca7c05" />
+
+<h2 style="font-size:40px">about me</h2>
+<p>I’m Sheikh Salman, a junior web developer with a passion for creating clean and user-friendly websites. I recently completed my web development course and am seeking an opportunity—through an internship or job—to build my skills and contribute to real-world projects.</p>
+
