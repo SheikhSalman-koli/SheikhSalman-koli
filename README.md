@@ -53,8 +53,7 @@ I’m **Sheikh Salman**, a **junior web developer** passionate about creating cl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhSalman-koli&layout=compact&theme=radical)
 
 <!-- Streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheikhSalman-koli&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=SheikhSalman-koli&theme=radical)
 
 
 
